@@ -1,0 +1,5 @@
+.vscode/
+creator.d.ts
+jsconfig.json
+temp/
+library/

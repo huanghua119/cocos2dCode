@@ -1,0 +1,62 @@
+2017-03-29T02:50:22.560Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-29T02:50:22.564Z - normal: checking language setting...
+2017-03-29T02:50:22.564Z - normal: Language: zh
+2017-03-29T02:50:23.985Z - success: protocol editor-framework registered
+2017-03-29T02:50:23.985Z - success: protocol app registered
+2017-03-29T02:50:23.986Z - success: protocol theme registered
+2017-03-29T02:50:23.986Z - success: protocol profile registered
+2017-03-29T02:50:23.986Z - success: protocol packages registered
+2017-03-29T02:50:23.986Z - success: protocol unpack registerred
+2017-03-29T02:50:23.986Z - success: protocol disable-commonjs registerred
+2017-03-29T02:50:24.234Z - normal: connected!
+2017-03-29T02:50:24.241Z - normal: Check project E:\work\code\cocos2d\start_project
+2017-03-29T02:50:24.245Z - normal: Initializing Cocos2d
+2017-03-29T02:50:24.736Z - normal: Initializing Asset Database
+2017-03-29T02:50:24.772Z - success: protocol uuid registerred
+2017-03-29T02:50:24.772Z - success: protocol db registerred
+2017-03-29T02:50:24.772Z - success: protocol thumbnail registerred
+2017-03-29T02:50:24.772Z - normal: Loading editor/builtin packages
+2017-03-29T02:50:24.888Z - success: assets loaded
+2017-03-29T02:50:24.890Z - success: builder loaded
+2017-03-29T02:50:24.892Z - success: hierarchy loaded
+2017-03-29T02:50:24.894Z - success: inspector loaded
+2017-03-29T02:50:24.895Z - success: keystore loaded
+2017-03-29T02:50:24.897Z - success: node-library loaded
+2017-03-29T02:50:24.898Z - success: preferences loaded
+2017-03-29T02:50:24.911Z - success: project-importer loaded
+2017-03-29T02:50:24.912Z - success: project-settings loaded
+2017-03-29T02:50:24.914Z - success: ui-kit loaded
+2017-03-29T02:50:24.915Z - success: ui-grid loaded
+2017-03-29T02:50:24.917Z - success: scene loaded
+2017-03-29T02:50:24.922Z - success: sprite-editor loaded
+2017-03-29T02:50:24.960Z - success: store loaded
+2017-03-29T02:50:24.963Z - success: timeline loaded
+2017-03-29T02:50:24.964Z - normal: Loading builtin packages
+2017-03-29T02:50:24.967Z - success: anysdk loaded
+2017-03-29T02:50:24.969Z - success: asset-db-debugger loaded
+2017-03-29T02:50:24.970Z - success: code-editor loaded
+2017-03-29T02:50:24.970Z - success: color-picker loaded
+2017-03-29T02:50:24.973Z - success: console loaded
+2017-03-29T02:50:24.974Z - success: package-manager loaded
+2017-03-29T02:50:24.976Z - success: tester loaded
+2017-03-29T02:50:24.977Z - success: ui-kit-preview-extra loaded
+2017-03-29T02:50:24.978Z - success: ui-kit-preview loaded
+2017-03-29T02:50:24.980Z - success: ui-tree loaded
+2017-03-29T02:50:25.025Z - normal: Initializing project E:\work\code\cocos2d\start_project
+2017-03-29T02:50:25.028Z - normal: Loading packages
+2017-03-29T02:50:25.032Z - normal: Watching packages
+2017-03-29T02:50:25.044Z - normal: Run Application
+2017-03-29T02:50:25.438Z - success: preview server running at http://localhost:7456
+2017-03-29T02:50:28.533Z - normal: 1.4.1
+2017-03-29T02:53:27.702Z - normal: Compiled project javascript file successfully
+2017-03-29T02:56:21.366Z - normal: Compiled project javascript file successfully
+2017-03-29T02:56:48.222Z - normal: Compiled project javascript file successfully
+2017-03-29T03:01:03.561Z - normal: Compiled project javascript file successfully
+2017-03-29T03:01:33.104Z - normal: Compiled project javascript file successfully
+2017-03-29T03:01:39.740Z - normal: Compiled project javascript file successfully
+2017-03-29T03:01:47.576Z - normal: Compiled project javascript file successfully
+2017-03-29T03:03:54.748Z - normal: Compiled project javascript file successfully
+2017-03-29T03:05:04.758Z - normal: Compiled project javascript file successfully
+2017-03-29T03:07:28.221Z - normal: Compiled project javascript file successfully
+2017-03-29T03:29:37.766Z - normal: Compiled project javascript file successfully
+2017-03-29T03:31:52.262Z - normal: Compiled project javascript file successfully
