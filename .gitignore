@@ -3,3 +3,4 @@ creator.d.ts
 jsconfig.json
 temp/
 library/
+local/logs/
